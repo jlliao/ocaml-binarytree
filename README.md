@@ -20,7 +20,7 @@ https://github.com/jlliao/ocaml-binarytree/blob/master/Midterm%20project%20%E2%8
 - Part 4: right-balanced tree
 - Part 5: combined use of functions
 
-Please refer to the question, first, see if you can solve question before checking my answers.
+Please refer to the question first, see if you can solve question before checking my answers.
 
 PDF: https://github.com/jlliao/ocaml-binarytree/blob/master/OCaml_binary-tree.pdf
 
