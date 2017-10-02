@@ -14,6 +14,6 @@ The questions and instructions of this project is offered by Prof Olivier Danvy.
 - Part 2: basics of binary tree (leaves and nodes)
 - Part 3: left-balanced tree
 - Part 4: right-balanced tree
-- Part 5: Combined use of functions
+- Part 5: combined use of functions
 
 Please refer to the question, first, see if you can solve question before checking my answers.
